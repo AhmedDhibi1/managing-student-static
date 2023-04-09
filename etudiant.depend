@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1668846613 source:c:\users\user\onedrive\bureau\mini.projet.c\etudiant\etudiant\main.c
+	<stdio.h>
+	<stdlib.h>
+	"etudiant.c"
+
+1668847481 c:\users\user\onedrive\bureau\mini.projet.c\etudiant\etudiant\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+
+1668846519 c:\users\user\onedrive\bureau\mini.projet.c\etudiant\etudiant\etudiant.h
+	"structure.h"
+
+1668846519 c:\users\user\onedrive\bureau\mini.projet.c\etudiant\etudiant\structure.h
+
